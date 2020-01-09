@@ -6,6 +6,7 @@ public class first {
 		// TODO Auto-generated method stub
 		System.out.println("이클립스 테스트 용입니다.");
 		System.out.println("테스트 1");
+		System.out.println("테스트 2");
 	}
 
 }
